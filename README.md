@@ -56,3 +56,5 @@ The record() function accepts the voice from the user and uploads the same to th
 
 The recognize_google() function recognizes the input voice passed to it as a parameter and returns it in the text form. If the user wishes to use any other language for speech recognition like Spanish, Japanese, etc, will need to pass the language as a parameter to the function.
   
+
+If any quey to  contact me on 2000bhautikpatel@gmail.com
